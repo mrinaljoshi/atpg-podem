@@ -33,8 +33,7 @@ How to get started:
 References:
 
 1.Sachin Dhingra : Implementation of ATPG Using PODEM Algorithm
-2. Inbuilt MATLAB help 
+2. Inbuilt MATLAB help
 3. Logic Synthesis and Verification Algorithms - Gary Hachtel and Fabio Somenzi
 4. tutorialspoint.com   (Python reference)
 5. One example of PODEM implementation: ecs.csun.edu/rroosta/documents/podem.pdf
-
